@@ -3,4 +3,4 @@ Este projeto tem o intuito de apresentar um site dinamico sobre arquitetura onde
 
 O site vai conter quadros de projetos realizados, um mini blog de informações da rotina de uma aluna de arquitetura e um espaço futuramente para depoimentos e comentarios no site.
 
-O site tem o intuito de demonstrar o trabalho e o esforço de um profissional de Arquitetura e Uebanismo.
+O site tem o intuito de demonstrar o trabalho e o esforço de um profissional de Arquitetura e Urbanismo.
